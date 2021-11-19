@@ -18,3 +18,4 @@
 - [Fireblocks](https://support.fireblocks.io/hc/en-us/articles/4409607182354) send-to-taproot (November 2021), create taproot addresses (planned 2022)
 - [Ledger](https://support.ledger.com/hc/en-us/articles/4410908103185-Creating-a-Bitcoin-Taproot-account-in-Ledger-Live?docs=true) send-to-taproot (November 2021), create taproot addresses (November 2021)
 - [Square Cash App](https://cash.app/help/us/en-us/20211114-bitcoin-taproot-upgrade) send-to-taproot (planned December 2021), create taproot addresses (no plan)
+- [Muun](https://medium.com/practical-bitcoin/taproot-294576c6f319) send-to-taproot and create taproot addresses (November 2021)
