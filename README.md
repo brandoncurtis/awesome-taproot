@@ -5,11 +5,16 @@
 > An awesome list is a list of awesome things curated by the community.  Please submit pull requests to add more awesome content.
 
 ## List of content
-
+- [Explainers](#explainers)
 - [Support Announcements](#support-announcements)
 
-## Support Announcements
+## Explainers
+- [River Financial: What is Taproot?](https://river.com/learn/what-is-taproot/) technical but readable taproot explainer
+- [BIP-341 Taproot: SegWit version 1 spending rules](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki) Bitcoin Improvement Proposal for Taproot
+- [BIP-342 Validation of Taproot Scripts](https://github.com/bitcoin/bips/blob/master/bip-0342.mediawiki) Bitcoin Improvement Proposal for Tapscript
+- [BIP-340 Schnorr Signatures for secp256k1](https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki) Bitcoin Improvement Proposal for Schnorr signatures, a simultaneous upgrade behind Taproot's privacy improvements
 
+## Support Announcements
 - [Fireblocks](https://support.fireblocks.io/hc/en-us/articles/4409607182354) send-to-taproot (November 2021), create taproot addresses (planned 2022)
 - [Ledger](https://support.ledger.com/hc/en-us/articles/4410908103185-Creating-a-Bitcoin-Taproot-account-in-Ledger-Live?docs=true) send-to-taproot (November 2021), create taproot addresses (November 2021)
 - [Square Cash App](https://cash.app/help/us/en-us/20211114-bitcoin-taproot-upgrade) send-to-taproot (planned December 2021), create taproot addresses (no plan)
